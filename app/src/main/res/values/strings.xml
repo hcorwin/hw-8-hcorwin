@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="intro_name">Length Conversion Calculator</string>
+    <string name="toTextHint">Enter Value</string>
+    <string name="fromTextHint">Enter Value</string>
+    <string name="fromLabel">Yards</string>
+    <string name="toLabel">Meters</string>
+    <string name="calculate_id">Calculate</string>
+    <string name="clear_id">Clear</string>
+    <string name="mode_id">Mode</string>
+    <string name="title_activity_change_units">Change Units</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="settings_button">Settings</string>
+    <string name="spinner_from_id">From</string>
+    <string name="spinnerTo">To</string>
+</resources>
